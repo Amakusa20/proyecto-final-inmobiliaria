@@ -1,2 +1,2 @@
 # Proyecto-final-1
-proyecto de una inmoviliaria
+proyecto de una inmobiliaria
